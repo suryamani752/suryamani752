@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ch0kT4n2Y_PbAQyx9Ar483G-jQsKjoU9/view](https://drive.google.com/file/d/1ch0kT4n2Y_PbAQyx9Ar483G-jQsKjoU9/view)
 
-- ⚡ Fun fact **I think I am passionate about new skill and Technology,**
+- ⚡ Fun fact **I think I am passionate about new skill and Technology. I am little funny😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
