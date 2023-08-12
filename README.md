@@ -9,12 +9,14 @@
 
 - 📫 How to reach me **suryamanikumar344@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ch0kT4n2Y_PbAQyx9Ar483G-jQsKjoU9/view](https://drive.google.com/file/d/1ch0kT4n2Y_PbAQyx9Ar483G-jQsKjoU9/view)
+
 - ⚡ Fun fact **I think I am passionate about new skill and Technology,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suryamani kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryamani kumar" height="30" width="40" /></a>
-<a href="https://fb.com/suryamani raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suryamani raj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suryamani-kumar-78711a1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryamani-kumar-78711a1b1" height="30" width="40" /></a>
+<a href="https://fb.com/surya mani raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surya mani raj" height="30" width="40" /></a>
 <a href="https://instagram.com/suryamaniinsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryamaniinsta" height="30" width="40" /></a>
 </p>
 
