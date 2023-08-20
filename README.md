@@ -1,16 +1,19 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="center">Hey 👋 What's up?</h2>
 
 ###
 
-<h2 align="left">My name is Suryamani Kumar and I'm a Student from Vellore Institute of Technology, Bhopal</h2>
+<h1 align="center">Hi 👋, I'm Suryamani Kumar</h1>
 
 ###
 
 <h3 align="left">I am MERN STACK WEB DEVELOPER</h3>
 
 ###
-
+👨‍💻 All of my projects are available at [https://portfolio-suryamani-kumar-byj5.onrender.com/](https://portfolio-suryamani-kumar-byj5.onrender.com/)
 <p align="left">📚 I'm currently learning: React Native to build Mobile Application for Cross Platform.<br>🎯 Goals: To build amazing and attractive Application for Mobile and WEB.<br>🎲 Fun fact: I am little bit funny 😉</p>
+📫 How to reach me **suryamanikumar344@gmail.com**
+
+📄 Know about my experiences [https://drive.google.com/file/d/19Jz48wrzR8xKuAKhOuWal_pOVuNnMoLf/view?usp=sharing](https://drive.google.com/file/d/19Jz48wrzR8xKuAKhOuWal_pOVuNnMoLf/view?usp=sharing)
 
 ###
 
@@ -118,15 +121,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=suryamani752&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 ###
