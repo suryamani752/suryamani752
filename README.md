@@ -6,18 +6,18 @@
 
 ###
 
-<h3 align="left">I am MERN STACK WEB DEVELOPER</h3>
+<h3 align="center">I am MERN STACK WEB DEVELOPER</h3>
 
 ###
 👨‍💻 All of my projects are available at [https://portfolio-suryamani-kumar-byj5.onrender.com/](https://portfolio-suryamani-kumar-byj5.onrender.com/)
-<p align="left">📚 I'm currently learning: React Native to build Mobile Application for Cross Platform.<br>🎯 Goals: To build amazing and attractive Application for Mobile and WEB.<br>🎲 Fun fact: I am little bit funny 😉</p>
+<p align="center">📚 I'm currently learning: React Native to build Mobile Application for Cross Platform.<br>🎯 Goals: To build amazing and attractive Application for Mobile and WEB.<br>🎲 Fun fact: I am little bit funny 😉</p>
 📫 How to reach me **suryamanikumar344@gmail.com**
 
 📄 Know about my experiences [https://drive.google.com/file/d/19Jz48wrzR8xKuAKhOuWal_pOVuNnMoLf/view?usp=sharing](https://drive.google.com/file/d/19Jz48wrzR8xKuAKhOuWal_pOVuNnMoLf/view?usp=sharing)
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -78,7 +78,7 @@
 </div>
 
 ###
-<h2 align="left"></h2>
+<h2 align="left"></h2
 
 ###
 
