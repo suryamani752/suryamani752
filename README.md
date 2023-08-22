@@ -10,8 +10,8 @@
 
 ###
 👨‍💻 All of my projects are available at [https://portfolio-suryamani-kumar-byj5.onrender.com/](https://portfolio-suryamani-kumar-byj5.onrender.com/)
-<p align="center">📚 I'm currently learning: React Native to build Mobile Application for Cross Platform.<br>🎯 Goals: To build amazing and attractive Application for Mobile and WEB.<br>🎲 Fun fact: I am little bit funny 😉</p>
-📫 How to reach me **suryamanikumar344@gmail.com**
+<p align="left">📚 <b>I'm currently learning: </b> React Native to build Mobile Application for Cross Platform.<br>🎯 <b>Goals:</b> To build amazing and attractive Application for Mobile and WEB.<br>🎲 <b>Fun fact:</b> I am little bit funny 😉</p>
+<p><b>📫 How to reach me : </b> **suryamanikumar344@gmail.com**</p>
 
 📄 Know about my experiences [https://drive.google.com/file/d/19Jz48wrzR8xKuAKhOuWal_pOVuNnMoLf/view?usp=sharing](https://drive.google.com/file/d/19Jz48wrzR8xKuAKhOuWal_pOVuNnMoLf/view?usp=sharing)
 
