@@ -109,8 +109,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suryamani752/suryamani752/output/snake.svg" alt="Snake animation" />
-
 ###
 <h3 align="left">🔥   My Stats :</h3>
 
