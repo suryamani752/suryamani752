@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Suryamani Kumar</h1>
+<h1 align="center">Hi 👋, I am Suryamani Kumar</h1>
 
 ###
 
