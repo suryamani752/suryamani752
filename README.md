@@ -13,7 +13,7 @@
 <p align="left">📚 <b>I'm currently learning: </b> React Native to build Mobile Application for Cross Platform.<br>🎯 <b>Goals:</b> To build amazing and attractive Application for Mobile and WEB.<br>🎲 <b>Fun fact:</b> Nothing </p>
 <p><b>📫 How to reach me : </b> **suryamanikumar344@gmail.com**</p>
 
-📄 Know about my experiences [https://drive.google.com/file/d/17-7-A3CJmROGbSuH0XXmyjeEIjKqthkl/view?usp=drive_link](https://drive.google.com/file/d/17-7-A3CJmROGbSuH0XXmyjeEIjKqthkl/view?usp=drive_link)
+
 
 ###
 
