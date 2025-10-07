@@ -1,104 +1,68 @@
-<h2 align="center">Hey 👋 What's up?</h2>
+# 👋 Hi, I'm Suryamani Kumar
 
-###
+🚀 **Full Stack Developer | DevOps Engineer**  
+📍 Pune, Maharashtra, India  
+📧 [suryamanikumar344@gmail.com](mailto:suryamanikumar344@gmail.com)  
+🌐 [devwithsurya.com](https://www.devwithsurya.com) | [LinkedIn](https://www.linkedin.com/in/suryamani-kumar-78711a1b1/) | [GitHub](https://github.com/suryamani752)
 
-<h1 align="center">Hi 👋, I am Suryamani Kumar</h1>
+---
 
-###
+## 💻 About Me
 
-<h3 align="center">I am MERN STACK WEB DEVELOPER</h3>
+I'm a passionate **Full Stack Developer** and **DevOps Engineer** with a strong focus on building scalable, efficient, and modern web applications.  
+I enjoy designing full-fledged systems — from intuitive frontends to resilient backends, automated CI/CD pipelines, and cloud infrastructure deployment.
 
-###
+---
 
-<p><b>📫 How to reach me : </b> **suryamanikumar344@gmail.com**</p>
+## 🧩 Tech Stack
 
+### 🚀 DevOps & Cloud
+- AWS | Docker | Kubernetes | Jenkins | GitLab CI/CD  
+- Terraform | Ansible | Grafana | Prometheus | Shell Scripting  
 
+### 💻 Programming & Frameworks
+- Node.js | Express.js | React.js | Next.js | Redux | Jest  
+- MongoDB | Firebase | Supabase  
 
-###
+### 🎨 Web Development
+- HTML | CSS | JavaScript | Tailwind CSS | Bootstrap | Stripe | Clerk  
 
-<h2 align="center">I code with</h2>
+### 🛠️ Tools & Practices
+- Git | GitHub | Postman | Automation | Load Balancing | CI/CD  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+## 🧠 Work Experience
 
-###
-<h2 align="left"></h2
+### 🧩 **DevOps Engineer Intern** – *Applus Idiada, Pune*  
+📆 **Feb 2024 – Aug 2024**
 
-###
+- Automated CI/CD pipelines using **Jenkins** and **Shell Scripting**, reducing deployment time by 30%.  
+- Configured **multi-node Kubernetes clusters** to enhance uptime and scalability.  
+- Managed infrastructure as code (IaC) using **Terraform** and **Ansible** on AWS.
+---
 
-###
+## 🏅 Certifications
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+- ETHANUS Certified MERN Full Stack Developer  
+- Applus Idiada Certified DevOps Engineer  
+- IIT Bombay Certified Web Developer  
 
-###
+---
 
-<div align="left">
-</div>
+## 🌱 Currently Exploring
+- Cloud-Native Architectures  
+- Scalable Microservices Design  
+- Advanced CI/CD Pipelines  
 
-###
+---
 
-<div align="center">
-  <a href="https://www.instagram.com/suryamaniinsta/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  /></a>
-  <a href="https://discord.gg/suryamani kumar#7443"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
-  <a href="https://linkedin.com/in/suryamani-kumar-78711a1b1"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
-  <a href="https://fb.com/surya mani raj"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  /></a>
-</div>
+## 🤝 Let’s Connect!
 
-###
+I’m always open to collaborating on exciting projects or discussing new technologies.  
+Let’s build something amazing together!
 
+📩 **[Email Me](mailto:suryamanikumar344@gmail.com)** | 🌐 **[Blog Website](https://www.devwithsurya.com)**
 
+---
+⭐️ *“Code. Automate. Deploy. Repeat.”*  
