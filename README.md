@@ -32,28 +32,11 @@ I enjoy designing full-fledged systems — from intuitive frontends to resilient
 
 ---
 
-## 🧠 Work Experience
-
-### 🧩 **DevOps Engineer Intern** – *Applus Idiada, Pune*  
-📆 **Feb 2024 – Aug 2024**
-
-- Automated CI/CD pipelines using **Jenkins** and **Shell Scripting**, reducing deployment time by 30%.  
-- Configured **multi-node Kubernetes clusters** to enhance uptime and scalability.  
-- Managed infrastructure as code (IaC) using **Terraform** and **Ansible** on AWS.
----
-
 ## 🏅 Certifications
 
 - ETHANUS Certified MERN Full Stack Developer  
 - Applus Idiada Certified DevOps Engineer  
 - IIT Bombay Certified Web Developer  
-
----
-
-## 🌱 Currently Exploring
-- Cloud-Native Architectures  
-- Scalable Microservices Design  
-- Advanced CI/CD Pipelines  
 
 ---
 
