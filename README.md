@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | DevOps Engineer**  
 📍 Pune, Maharashtra, India  
-📧 [suryamanikumar344@gmail.com](mailto:suryamanikumar344@gmail.com)  
+📧 [devwithsurya@gmail.com](mailto:devwithsurya@gmail.com)  
 🌐 [devwithsurya.com](https://www.devwithsurya.com) | [LinkedIn](https://www.linkedin.com/in/suryamani-kumar-78711a1b1/) | [GitHub](https://github.com/suryamani752)
 
 ---
